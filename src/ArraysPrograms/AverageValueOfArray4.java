@@ -1,4 +1,4 @@
-package ArrayPrograms;
+package ArraysPrograms;
 
 public class AverageValueOfArray4 {
 
